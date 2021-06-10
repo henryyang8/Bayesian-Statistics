@@ -1,1 +1,1 @@
-# Bayesian-Statistics
+# GT_Bayesian Statistics
